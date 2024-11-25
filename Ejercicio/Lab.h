@@ -27,6 +27,6 @@ extern ConsoleBox* consoleBox;
 
 
 void load_script(const char* filename, bool show_script = false);
-void load_script();  /
+void load_script();
 
 #endif // LAB_H
