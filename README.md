@@ -25,5 +25,5 @@ Para la solución de los ejercicios me he basaso en los códigos proporcionados 
    - El código podría simplificarse más para así evitar los warnings en concreto de entrada y salida.
    - Buen uso de librerías.
    - Implementación adecuada de las funciones requeridas.
-   - 
+     
       
