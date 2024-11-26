@@ -17,4 +17,6 @@ Se produce un error de lectura durante la lectura del archivo.
 Para manejar estos y otros errores potenciales, es posible que desees agregar comprobaciones de errores adicionales y manejar los fallos de manera más sofisticada.
 Para la solución de los ejercicios me he basaso en los códigos proporcionados por los ejercicios, la fuente de ayuda es chat gpt que proporciona la solución a los errores encontrados.
 
-## 3. Corrije el ejercicio de tu compañero y sub tu valoración a tu readme
+## 3. Corrije el ejercicio de tu compañero y sub tu valoración a tu readme 
+  Corrección del README de Bárbara Torres:
+  
