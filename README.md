@@ -19,4 +19,11 @@ Para la solución de los ejercicios me he basaso en los códigos proporcionados 
 
 ## 3. Corrije el ejercicio de tu compañero y sub tu valoración a tu readme 
   Corrección del README de Bárbara Torres:
-  
+   - En cuanto al README se puede organizar mejor, con una separación más clara entre los títulos de los ejercicios para así conseguir más limpieza y claridad a la hora de leer el README.
+   - El trabajo tiene varios commits aunque podría ser mejor si se cambia de mensaje para más estructuración.
+   - El proyecto compila de manera correcta por lo que el trabajo está realizado de manera adecuada.
+   - El código podría simplificarse más para así evitar los warnings en concreto de entrada y salida.
+   - Buen uso de librerías.
+   - Implementación adecuada de las funciones requeridas.
+   - 
+      
